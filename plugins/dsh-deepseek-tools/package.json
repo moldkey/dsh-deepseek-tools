@@ -1,6 +1,6 @@
 {
   "name": "dsh-deepseek-tools",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "把 DeepSeek 应用 API（搜索/抓取/OCR/TTS/ASR）包成 DSH 工具，按官方工具价计费",
   "type": "module",
   "main": "lib/index.js",
